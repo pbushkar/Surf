@@ -1,0 +1,252 @@
+"Bing Surfboards","5-10 Bonzer","New Surfboards",6/16/14 13:23:53,"S",$665.00,3/8/07 9:14:21
+"Sharp Eye","5-8 GL-1","New Surfboards",7/2/14 10:41:52,"S",$405.00,6/26/09 17:02:26
+"Sharp Eye","5-8 GL-1","New Surfboards",2/13/14 10:11:06,"S",$405.00,6/26/09 17:02:26
+"Sharp Eye","5-8 GL-1","New Surfboards",2/13/14 10:11:06,"S",$400.00,6/2/11 13:41:30
+"Sharp Eye","5-8 Blowfish","New Surfboards",2/24/14 17:25:09,"S",$500.00,6/2/11 13:41:32
+"Sharp Eye","5-10 GL-1","New Surfboards",7/3/14 14:57:15,"S",$435.00,7/20/11 17:34:56
+"Sharp Eye","6-3 GL-1","New Surfboards",3/15/14 13:55:19,"S",$435.00,7/20/11 17:34:56
+"Allison","6-9 Step Up","New Surfboards",1/31/14 15:06:57,"S",$635.00,8/17/11 16:43:12
+"Hydroflex","5-10 Lost Rocket HFlex","New Surfboards",7/15/14 15:01:48,"S",$850.00,9/21/11 14:42:16
+"Hydroflex","5-10 Lost Rocket HFlex","New Surfboards",8/1/14 16:58:01,"S",$850.00,9/21/11 14:42:16
+"Hydroflex","5-4 Lost RNF HFlex","New Surfboards",3/22/14 11:33:18,"S",$850.00,9/21/11 14:42:16
+"Channel Islands","5-9 Semi-Pro 12","New Surfboards",3/10/14 12:18:50,"S",$725.00,2/21/12 13:44:05
+"Sharp Eye","5-6 Blowfish","New Surfboards",2/28/14 14:30:25,"S",$545.00,3/13/12 12:49:08
+"Sharp Eye","6-0 Blowfish","New Surfboards",2/26/14 17:34:16,"R",($500.00),3/13/12 12:49:09
+"Lost Surfboards","5-10 Sub Scorch DW","New Surfboards",8/13/14 17:13:32,"S",$540.00,4/6/12 10:04:32
+"Solid Surfboards","6-2 Discus","New Surfboards",8/9/14 16:30:39,"S",$500.00,4/11/12 14:24:12
+"Solid Surfboards","6-2 Discus","New Surfboards",3/26/14 13:42:13,"R",($500.00),4/11/12 14:24:12
+"Solid Surfboards","6-2 Discus","New Surfboards",3/23/14 15:58:29,"S",$500.00,4/11/12 14:24:12
+"McKevlins Surfboards","9-2 Longboard","New Surfboards",5/18/14 15:35:47,"S",$530.00,4/20/12 12:48:12
+"Channel Islands","5-10 CI Pod","New Surfboards",1/4/14 16:30:27,"S",$725.00,5/16/12 14:03:24
+"Bing Surfboards","5-4 Bing Dharma","New Surfboards",5/25/14 10:32:58,"S",$595.00,5/17/12 14:13:05
+"Lost Surfboards","5-8 Sub Scorcher","New Surfboards",4/15/14 11:02:03,"S",$545.00,5/30/12 16:14:06
+"Sharp Eye","6-0 Gamechanger","New Surfboards",5/14/14 12:45:16,"S",$525.00,6/11/12 13:24:44
+"Lost Surfboards","5-8 Dbl Wide Sub-Scorcher","New Surfboards",2/16/14 14:50:56,"S",$540.00,7/23/12 15:59:32
+"Channel Islands","5-11 CI MBTOO","New Surfboards",3/2/14 12:43:17,"S",$710.00,8/24/12 15:34:00
+"Channel Islands","5-6 CI NB","New Surfboards",2/19/14 17:32:28,"S",$725.00,2/1/13 15:17:16
+"Bing Surfboards","6-0 Dharma","New Surfboards",5/17/14 12:00:09,"S",$620.00,2/4/13 14:33:19
+"McKevlins Surfboards","9-2 Longboard","New Surfboards",5/18/14 15:35:47,"S",$530.00,2/19/13 15:54:26
+"Channel Islands","5-1 Average Joe","New Surfboards",2/4/14 15:14:42,"S",$730.00,2/4/14 15:00:39
+"Channel Islands","5-5 Average Joe","New Surfboards",8/6/14 11:46:03,"S",$740.00,2/4/14 15:00:39
+"Channel Islands","5-5 Weirdo Ripper","New Surfboards",7/21/14 15:43:10,"S",$740.00,2/4/14 15:00:39
+"Channel Islands","5-6 New Flyer","New Surfboards",2/16/14 14:53:39,"S",$725.00,2/4/14 15:00:39
+"Channel Islands","5-9 Average Joe","New Surfboards",6/14/14 14:28:26,"S",$755.00,2/4/14 15:00:39
+"Channel Islands","6-0 New Flyer","New Surfboards",3/16/14 14:05:59,"S",$750.00,2/4/14 15:00:40
+"Channel Islands","6-3 New Flyer","New Surfboards",7/19/14 13:43:08,"S",$750.00,2/4/14 15:00:40
+"McKevlins Surfboards","6-4 Funshape","New Surfboards",3/6/14 14:33:32,"S",$445.00,3/1/14 10:25:57
+"McKevlins Surfboards","6-6 Funshape","New Surfboards",5/7/14 14:39:56,"S",$420.00,3/1/14 10:25:57
+"McKevlins Surfboards","6-6 Funshape","New Surfboards",3/17/14 17:19:49,"S",$455.00,3/1/14 10:25:57
+"McKevlins Surfboards","6-8 Funshape","New Surfboards",5/25/14 17:10:42,"S",$420.00,3/1/14 10:25:58
+"McKevlins Surfboards","6-10 Funshape","New Surfboards",3/18/14 16:47:51,"S",$455.00,3/1/14 10:25:58
+"McKevlins Surfboards","6-10 Funshape","New Surfboards",3/10/14 16:49:10,"S",$420.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-0 Funshape","New Surfboards",5/4/14 15:27:20,"S",$470.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-0 Funshape","New Surfboards",4/26/14 11:00:32,"S",$435.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-0 Funshape","New Surfboards",4/13/14 15:59:49,"S",$470.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",4/20/14 13:32:19,"S",$435.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",5/21/14 17:55:55,"S",$470.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",3/17/14 16:37:40,"S",$435.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-4 Funshape","New Surfboards",3/15/14 17:44:47,"S",$470.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-4 Funshape","New Surfboards",3/15/14 17:41:54,"S",$470.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-4 Funshape","New Surfboards",5/6/14 13:17:32,"S",$435.00,3/1/14 10:25:58
+"McKevlins Surfboards","7-4 Funshape","New Surfboards",4/8/14 12:25:17,"S",$470.00,3/1/14 10:25:59
+"McKevlins Surfboards","7-6 Funshape","New Surfboards",5/15/14 15:43:03,"S",$455.00,3/1/14 10:25:59
+"McKevlins Surfboards","7-6 Funshape","New Surfboards",3/1/14 15:50:37,"S",$490.00,3/1/14 10:25:59
+"McKevlins Surfboards","7-6 Funshape","New Surfboards",5/11/14 14:31:34,"S",$455.00,3/1/14 10:25:59
+"McKevlins Surfboards","7-8 Funshape","New Surfboards",3/12/14 14:39:14,"S",$490.00,3/1/14 10:25:59
+"McKevlins Surfboards","7-8 Funshape","New Surfboards",3/8/14 13:11:21,"S",$455.00,3/1/14 10:25:59
+"McKevlins Surfboards","7-10 Funshape","New Surfboards",3/1/14 16:25:40,"S",$490.00,3/1/14 10:25:59
+"McKevlins Surfboards","7-10 Funshape","New Surfboards",3/13/14 17:20:28,"S",$455.00,3/1/14 10:25:59
+"McKevlins Surfboards","8-0 LB","New Surfboards",3/29/14 14:34:48,"S",$560.00,3/1/14 10:25:59
+"McKevlins Surfboards","9-0 LB","New Surfboards",5/24/14 10:11:03,"S",$610.00,3/1/14 10:25:59
+"McKevlins Surfboards","9-0 LB","New Surfboards",7/18/14 16:14:11,"S",$610.00,3/1/14 10:25:59
+"McKevlins Surfboards","9-2 LB","New Surfboards",5/16/14 13:30:21,"S",$610.00,3/1/14 10:26:00
+"RC Srfbrds","6-10 Big Guy Fish Epxy","New Surfboards",3/22/14 17:19:49,"S",$575.00,3/3/14 16:42:05
+"RC Srfbrds","7-0 Big Guy Fish Epxy","New Surfboards",3/8/14 12:06:45,"S",$605.00,3/3/14 16:42:05
+"RC Srfbrds","7-2 Big Guy Fish Epxy","New Surfboards",3/6/14 14:01:47,"S",$615.00,3/3/14 16:42:05
+"RC Srfbrds","7-4 Big Guy Fish Epxy","New Surfboards",3/13/14 17:20:28,"S",$615.00,3/3/14 16:42:05
+"RC Srfbrds","7-4 Big Guy Fish Epxy","New Surfboards",3/13/14 14:35:30,"S",$615.00,3/3/14 16:42:05
+"RC Srfbrds","7-6 Big Guy Fish","New Surfboards",7/23/14 15:09:44,"S",$585.00,3/3/14 16:42:05
+"RC Srfbrds","7-4 Mini Me Epxy","New Surfboards",3/20/14 11:45:08,"S",$650.00,3/3/14 16:42:05
+"RC Srfbrds","7-4 Mini Me Epxy","New Surfboards",3/20/14 11:45:08,"S",$650.00,3/3/14 16:42:05
+"RC Srfbrds","9-2 JQ3","New Surfboards",5/12/14 14:28:04,"S",$890.00,3/3/14 16:42:06
+"RC Srfbrds","9-4 JQ","New Surfboards",4/13/14 16:02:56,"S",$900.00,3/3/14 16:42:06
+"RC Srfbrds","9-6 JQ3","New Surfboards",3/30/14 16:11:01,"S",$890.00,3/3/14 16:42:06
+"RC Srfbrds","9-6 JQ","New Surfboards",5/9/14 17:04:10,"S",$900.00,3/3/14 16:42:06
+"RC Srfbrds","9-6 JQ","New Surfboards",5/1/14 15:20:10,"S",$880.00,3/3/14 16:42:06
+"RC Srfbrds","9-8 JQ","New Surfboards",3/7/14 16:37:11,"S",$920.00,3/3/14 16:42:06
+"RC Srfbrds","10-0 JQ","New Surfboards",5/21/14 16:35:50,"S",$940.00,3/3/14 16:42:06
+"RC Srfbrds","10-0 JQ","New Surfboards",5/21/14 14:27:51,"S",$940.00,3/3/14 16:42:06
+"Channel Islands","5-4 New Flyer Quint","New Surfboards",8/6/14 13:06:16,"S",$725.00,3/14/14 14:53:38
+"Channel Islands","5-10 Weirdo Ripper Quint","New Surfboards",3/17/14 13:36:43,"S",$740.00,3/14/14 14:53:38
+"Channel Islands","5-10 Weirdo Ripper Quint","New Surfboards",3/15/14 11:31:30,"S",$740.00,3/14/14 14:53:38
+"Channel Islands","5-6 Weirdo Ripper Quint","New Surfboards",5/3/14 12:13:24,"S",$740.00,3/14/14 14:53:39
+"Channel Islands","5-8 Weirdo Ripper Quint","New Surfboards",3/20/14 13:36:08,"S",$740.00,3/14/14 14:53:39
+"Channel Islands","6-0 Weirdo Ripper Quint","New Surfboards",8/2/14 11:26:17,"S",$740.00,3/14/14 14:53:39
+"Channel Islands","5-7 Avg Joe Quint","New Surfboards",7/16/14 10:54:13,"S",$740.00,3/14/14 14:53:39
+"Grasshopper","9-6 Grasshopper LB","New Surfboards",4/13/14 11:10:21,"S",$835.00,3/24/14 13:18:24
+"Grasshopper","8-0 Grasshopper LB","New Surfboards",4/12/14 17:44:40,"S",$755.00,3/24/14 13:18:24
+"Grasshopper","5-9 Grasshopper SB","New Surfboards",6/7/14 11:26:30,"S",$540.00,3/24/14 13:18:24
+"Grasshopper","5-8 Grasshopper SB","New Surfboards",7/12/14 14:33:38,"S",$525.00,3/24/14 13:18:24
+"Lost Surfboards","6-0 V3","New Surfboards",7/15/14 11:38:51,"S",$640.00,3/24/14 13:45:24
+"Lost Surfboards","5-6 RV","New Surfboards",6/3/14 12:22:15,"S",$725.00,3/24/14 13:45:24
+"Lost Surfboards","5-8 RV","New Surfboards",3/25/14 11:46:12,"S",$660.00,3/24/14 13:45:24
+"Lost Surfboards","5-6 V3","New Surfboards",4/9/14 14:31:01,"S",$640.00,3/24/14 13:45:25
+"Lost Surfboards","6-2 V2","New Surfboards",3/26/14 11:08:24,"S",$645.00,3/24/14 13:45:25
+"Lost Surfboards","6-1 V2","New Surfboards",7/4/14 13:54:32,"S",$635.00,3/24/14 13:45:25
+"Lost Surfboards","6-1 V2","New Surfboards",7/4/14 13:40:45,"S",$635.00,3/24/14 13:45:25
+"Lost Surfboards","6-4 RNF","New Surfboards",3/29/14 12:36:04,"S",$675.00,3/24/14 13:45:25
+"Lost Surfboards","5-11 V2","New Surfboards",7/25/14 14:06:11,"S",$500.00,3/24/14 13:45:25
+"Lost Surfboards","5-10 V3","New Surfboards",8/4/14 14:39:57,"S",$640.00,3/24/14 13:45:25
+"Lost Surfboards","5-9 V3","New Surfboards",4/20/14 16:41:44,"S",$640.00,3/24/14 13:45:25
+"Lost Surfboards","6-0 RV","New Surfboards",3/27/14 15:01:42,"S",$660.00,3/24/14 13:45:26
+"SUPER","5-2 Unit Quint","New Surfboards",5/22/14 13:23:26,"S",$620.00,3/24/14 16:21:27
+"SUPER","5-4 Unit Quint","New Surfboards",4/14/14 14:30:02,"S",$620.00,3/24/14 16:21:27
+"SUPER","5-4 Unit Quint","New Surfboards",4/14/14 14:31:22,"S",$620.00,3/24/14 16:21:27
+"SUPER","5-6 Unit Quint","New Surfboards",6/29/14 14:46:26,"S",$580.00,3/24/14 16:21:27
+"SUPER","5-8 Unit Quint","New Surfboards",5/13/14 13:24:01,"S",$620.00,3/24/14 16:21:27
+"SUPER","5-10 Unit Quint","New Surfboards",8/3/14 14:49:50,"S",$620.00,3/24/14 16:21:27
+"SUPER","5-4 Fling Quint","New Surfboards",7/24/14 17:41:51,"S",$620.00,3/24/14 16:21:28
+"SUPER","5-6 Fling Quint","New Surfboards",8/4/14 14:17:50,"S",$620.00,3/24/14 16:21:28
+"SUPER","5-8 Fling Quint","New Surfboards",4/16/14 15:19:52,"S",$620.00,3/24/14 16:21:28
+"SUPER","5-10 Fling Quint","New Surfboards",7/11/14 13:44:29,"S",$620.00,3/24/14 16:21:28
+"SUPER","5-4 Fling Quint SuperFlex","New Surfboards",6/16/14 13:43:23,"S",$680.00,3/24/14 16:21:28
+"SUPER","5-6 Fling Quint SuperFlex","New Surfboards",4/29/14 10:34:17,"S",$680.00,3/24/14 16:21:28
+"Sharp Eye","6-2 Disco Quint","New Surfboards",7/1/14 15:34:45,"S",$550.00,3/25/14 13:41:07
+"Sharp Eye","6-4 Disco","New Surfboards",6/15/14 13:32:10,"S",$565.00,3/25/14 13:41:07
+"Sharp Eye","5-10 Manta Quint","New Surfboards",7/11/14 15:35:34,"S",$550.00,3/25/14 13:41:07
+"Sharp Eye","6-0 Manta Quint","New Surfboards",3/28/14 17:17:43,"S",$550.00,3/25/14 13:41:08
+"Sharp Eye","6-4 Disco Inferno","New Surfboards",7/30/14 16:29:37,"S",$540.00,3/25/14 13:41:08
+"Bing Surfboards","9-2 Levitator","New Surfboards",5/8/14 13:53:57,"S",$1010.00,4/14/14 15:37:02
+"Bing Surfboards","9-6 Levitator","New Surfboards",5/16/14 16:35:24,"S",$1040.00,4/14/14 15:37:02
+"Bing Surfboards","9-8 Levitator","New Surfboards",6/28/14 14:15:41,"S",$1065.00,4/14/14 15:37:02
+"Bing Surfboards","5-8 Dharma","New Surfboards",7/26/14 16:57:35,"S",$640.00,4/14/14 15:37:02
+"Channel Islands","5-7 Average Joe","New Surfboards",5/23/14 10:34:42,"S",$740.00,4/15/14 15:01:57
+"Channel Islands","5-7 Weirdo Ripper","New Surfboards",6/22/14 10:35:57,"S",$740.00,4/15/14 15:01:57
+"Channel Islands","5-9 Average Joe","New Surfboards",6/29/14 13:52:35,"S",$755.00,4/15/14 15:01:57
+"Channel Islands","5-9 New Flyer Quint","New Surfboards",4/19/14 14:14:55,"S",$725.00,4/15/14 15:01:58
+"Channel Islands","6-2 Weirdo Ripper","New Surfboards",4/19/14 11:10:35,"S",$770.00,4/15/14 15:01:58
+"Sharp Eye","5-7 Manta","New Surfboards",5/10/14 10:26:52,"S",$565.00,4/21/14 11:52:38
+"Sharp Eye","5-10 Manta","New Surfboards",5/25/14 15:42:45,"S",$565.00,4/21/14 11:52:38
+"RC Srfbrds","9-0 JQ3","New Surfboards",5/26/14 16:17:35,"S",$920.00,4/21/14 14:48:15
+"Lost Surfboards","5-9 RV","New Surfboards",7/22/14 13:56:53,"S",$710.00,5/14/14 13:58:20
+"Lost Surfboards","5-8 RV","New Surfboards",5/24/14 9:28:04,"S",$710.00,5/14/14 13:58:20
+"Lost Surfboards","5-8 RV","New Surfboards",8/3/14 18:03:23,"S",$710.00,5/14/14 13:58:20
+"Lost Surfboards","6-1 RV","New Surfboards",7/20/14 11:03:56,"S",$710.00,5/14/14 13:58:20
+"Lost Surfboards","5-9 RV","New Surfboards",7/9/14 14:44:52,"S",$645.00,5/14/14 13:58:20
+"Lost Surfboards","5-6 RNF","New Surfboards",7/25/14 14:34:08,"S",$665.00,5/14/14 13:58:21
+"Lost Surfboards","5-7 RV","New Surfboards",7/10/14 13:23:46,"S",$655.00,5/14/14 13:58:21
+"Lost Surfboards","6-2 V3","New Surfboards",6/4/14 11:54:31,"S",$655.00,5/14/14 13:58:22
+"Lost Surfboards","5-10 V2","New Surfboards",8/3/14 13:51:26,"S",$620.00,5/14/14 13:58:22
+"Lost Surfboards","5-5 RNF","New Surfboards",8/5/14 12:34:16,"S",$625.00,5/14/14 13:58:22
+"Lost Surfboards","5-10 V3","New Surfboards",5/25/14 16:38:42,"S",$670.00,5/14/14 13:58:22
+"Lost Surfboards","6-0 RNF","New Surfboards",7/1/14 11:18:35,"S",$625.00,5/14/14 13:58:23
+"RC Srfbrds","6-10 Big Guy Fish Epoxy","New Surfboards",6/6/14 17:03:25,"S",$575.00,5/20/14 12:46:51
+"RC Srfbrds","7-0 Big Guy Fish Epoxy","New Surfboards",7/16/14 17:53:42,"S",$635.00,5/20/14 12:46:51
+"RC Srfbrds","7-2 Big Guy Fish Epoxy","New Surfboards",5/24/14 12:11:04,"S",$615.00,5/20/14 12:46:51
+"RC Srfbrds","7-4 Big Guy Fish Epoxy","New Surfboards",8/1/14 13:08:57,"S",$615.00,5/20/14 12:46:51
+"RC Srfbrds","7-4 Big Guy Fish Epoxy","New Surfboards",8/1/14 13:08:57,"S",$615.00,5/20/14 12:46:51
+"RC Srfbrds","7-4 Mini Me Epoxy","New Surfboards",5/24/14 12:11:04,"S",$650.00,5/20/14 12:46:51
+"RC Srfbrds","9-4 JQ Longboard","New Surfboards",6/26/14 16:46:04,"S",$900.00,5/20/14 12:46:52
+"RC Srfbrds","9-6 JQ Longboard","New Surfboards",7/23/14 13:41:01,"S",$920.00,5/20/14 12:46:52
+"McKevlins Surfboards","6-8 Funshape","New Surfboards",6/30/14 13:11:38,"S",$455.00,6/2/14 10:03:31
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",7/8/14 16:05:49,"S",$470.00,6/2/14 10:03:31
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",6/24/14 13:21:24,"S",$470.00,6/2/14 10:03:32
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",8/8/14 10:58:33,"S",$470.00,6/2/14 10:03:32
+"McKevlins Surfboards","6-6 Funshape","New Surfboards",7/26/14 18:07:48,"S",$455.00,6/2/14 10:03:32
+"McKevlins Surfboards","6-8 Funshape","New Surfboards",7/3/14 15:24:49,"S",$455.00,6/2/14 10:03:32
+"McKevlins Surfboards","6-10 Funshape","New Surfboards",8/9/14 13:22:56,"S",$455.00,6/2/14 10:03:32
+"McKevlins Surfboards","7-0 Funshape","New Surfboards",7/19/14 15:00:10,"S",$470.00,6/2/14 10:03:32
+"McKevlins Surfboards","7-0 Funshape","New Surfboards",7/12/14 17:11:50,"S",$470.00,6/2/14 10:03:32
+"McKevlins Surfboards","6-4 Funshape","New Surfboards",7/3/14 13:52:18,"S",$445.00,6/2/14 10:03:32
+"McKevlins Surfboards","6-10 Funshape","New Surfboards",6/4/14 11:36:38,"S",$420.00,6/2/14 10:03:32
+"McKevlins Surfboards","6-8 Funshape","New Surfboards",7/18/14 16:59:10,"S",$420.00,6/2/14 10:03:32
+"McKevlins Surfboards","6-8 Funshape","New Surfboards",7/22/14 14:47:12,"S",$420.00,6/2/14 10:03:32
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",6/16/14 10:11:35,"S",$435.00,6/2/14 10:03:33
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",7/14/14 11:54:11,"S",$435.00,6/2/14 10:03:33
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",8/6/14 12:49:27,"S",$435.00,6/2/14 10:03:33
+"McKevlins Surfboards","7-6 Funshape","New Surfboards",7/12/14 16:51:26,"S",$565.00,6/2/14 10:03:33
+"McKevlins Surfboards","7-8 Funshape","New Surfboards",6/7/14 14:00:26,"S",$565.00,6/2/14 10:03:33
+"Allison","7-0 Funshape","New Surfboards",8/5/14 12:50:56,"S",$650.00,6/6/14 16:11:15
+"McKevlins Surfboards","7-6 Funshape","New Surfboards",7/18/14 17:14:01,"S",$455.00,6/6/14 17:44:43
+"McKevlins Surfboards","7-6 Funshape","New Surfboards",7/20/14 16:33:23,"S",$455.00,6/6/14 17:44:58
+"McKevlins Surfboards","7-0 Funshape","New Surfboards",7/27/14 12:42:26,"S",$435.00,6/6/14 17:45:33
+"McKevlins Surfboards","7-0 Funshape","New Surfboards",8/12/14 14:43:39,"S",$435.00,6/6/14 17:45:54
+"McKevlins Surfboards","6-10 Funshape","New Surfboards",7/1/14 11:01:41,"S",$420.00,6/6/14 17:47:02
+"McKevlins Surfboards","6-6 Funshape","New Surfboards",7/29/14 12:47:42,"S",$420.00,6/6/14 17:47:25
+"McKevlins Surfboards","6-6 Funshape","New Surfboards",8/10/14 17:48:23,"S",$420.00,6/6/14 17:47:25
+"McKevlins Surfboards","6-4 Funshape","New Surfboards",7/8/14 12:51:32,"S",$410.00,6/6/14 17:47:54
+"McKevlins Surfboards","6-4 Funshape","New Surfboards",7/8/14 12:50:32,"S",$410.00,6/6/14 17:47:54
+"McKevlins Surfboards","9-2 Longboard","New Surfboards",6/7/14 12:04:28,"S",$610.00,6/6/14 17:48:39
+"McKevlins Surfboards","9-0 Longboard","New Surfboards",6/27/14 12:38:26,"S",$610.00,6/6/14 17:48:57
+"McKevlins Surfboards","9-6 Longboard","New Surfboards",8/13/14 17:13:32,"S",$640.00,6/6/14 17:49:38
+"McKevlins Surfboards","7-6 Funshape","New Surfboards",6/10/14 14:35:43,"S",$495.00,6/6/14 17:50:23
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",7/7/14 18:07:48,"S",$475.00,6/6/14 17:51:43
+"McKevlins Surfboards","7-2 Funshape","New Surfboards",7/7/14 12:31:34,"S",$475.00,6/6/14 17:51:43
+"McKevlins Surfboards","6-10 Funshape","New Surfboards",6/15/14 10:10:45,"S",$460.00,6/6/14 17:52:19
+"Sharp Eye","6-0 Manta","New Surfboards",7/3/14 16:06:21,"S",$550.00,6/23/14 14:40:31
+"McKevlins Surfboards","6-4 Funshape","New Surfboards",7/19/14 16:08:50,"S",$465.00,7/18/14 17:31:30
+"McKevlins Surfboards","6-10 Funshape","New Surfboards",8/13/14 13:22:06,"S",$475.00,7/18/14 17:31:31
+"McKevlins Surfboards","6-10 Funshape","New Surfboards",8/1/14 13:59:11,"S",$475.00,7/18/14 17:31:31
+"McKevlins Surfboards","6-6 Funshape","New Surfboards",8/5/14 14:55:18,"S",$475.00,7/18/14 17:31:31
+"McKevlins Surfboards","9-2 LB","New Surfboards",8/1/14 17:44:47,"S",$615.00,7/18/14 17:31:31
+"McKevlins Surfboards","9-4 LB","New Surfboards",8/5/14 16:06:33,"S",$615.00,7/18/14 17:31:31
+"Island Inspired","6-0 II Fish","New Surfboards",7/21/14 12:48:26,"S",$515.00,7/18/14 17:38:32
+"RC Srfbrds","6-10 Big Guy Fish Epxy","New Surfboards",8/10/14 12:27:31,"S",$615.00,7/24/14 13:22:10
+"RC Srfbrds","10-0 JQ","New Surfboards",7/26/14 11:08:43,"S",$990.00,7/24/14 13:22:11
+"SUPER","5-9 Unit","New Surfboards",8/6/14 10:58:58,"S",$580.00,8/6/14 10:31:25
+"Allison","5-10 MushMonster","New Surfboards",7/26/14 11:04:55,"S",$595.00,3/7/13 16:50:59
+"Allison","5-6 MushMonster","New Surfboards",3/30/14 17:39:05,"S",$695.00,3/7/13 16:50:59
+"Channel Islands","5-4 CI NB","New Surfboards",1/11/14 14:18:34,"S",$735.00,3/18/13 14:34:27
+"RC Srfbrds","5-11 Fat Albert","New Surfboards",1/18/14 14:29:51,"S",$565.00,3/22/13 10:03:43
+"RC Srfbrds","6-2 Fat Albert","New Surfboards",2/21/14 15:48:29,"S",$595.00,3/22/13 10:03:43
+"Bing Surfboards","5-10 Dharma","New Surfboards",6/7/14 17:55:36,"S",$595.00,3/26/13 13:26:30
+"Bing Surfboards","6-0 Swee Pea","New Surfboards",3/20/14 13:02:30,"S",$595.00,3/26/13 13:26:30
+"Lost Surfboards","5-8 RNF","New Surfboards",3/17/14 17:25:24,"S",$645.00,4/5/13 11:00:10
+"Lost Surfboards","5-7 SS2","New Surfboards",4/6/14 14:56:18,"S",$630.00,4/5/13 11:00:11
+"Lost Surfboards","5-11 Sub Schorcher","New Surfboards",3/17/14 11:51:38,"S",$600.00,4/5/13 11:00:11
+"Lost Surfboards","5-7 V2 Stub","New Surfboards",5/4/14 16:06:21,"S",$625.00,4/5/13 11:00:11
+"Channel Islands","5-11 Neckbeard","New Surfboards",3/21/14 18:17:59,"S",$725.00,4/10/13 16:53:56
+"Sharp Eye","6-2 OK Model","New Surfboards",6/27/14 11:05:50,"S",$535.00,4/15/13 13:52:20
+"SUPER","6-0 Vapors","New Surfboards",2/15/14 13:05:47,"S",$620.00,4/30/13 15:05:42
+"Grasshopper","5-7 Fish","New Surfboards",5/6/14 16:42:05,"S",$475.00,5/8/13 17:30:26
+"Lost Surfboards","5-7 Couch Potato","New Surfboards",5/25/14 14:21:02,"S",$695.00,5/15/13 16:04:03
+"Lost Surfboards","5-10 Couch Potato","New Surfboards",3/11/14 12:20:56,"S",$695.00,5/15/13 16:04:04
+"Lost Surfboards","5-11 Beach Buggy","New Surfboards",3/22/14 11:44:55,"S",$600.00,5/15/13 16:04:04
+"Lost Surfboards","5-11 Beach Buggy","New Surfboards",3/22/14 11:38:40,"S",$600.00,5/15/13 16:04:04
+"Lost Surfboards","5-9 SubScorcher 2","New Surfboards",2/21/14 12:54:25,"S",$610.00,5/15/13 16:04:05
+"Lost Surfboards","5-9 Beach Buggy","New Surfboards",4/22/14 12:01:26,"S",$600.00,5/15/13 16:04:05
+"RC Srfbrds","6-0 Hemi","New Surfboards",4/25/14 14:25:59,"S",$575.00,5/22/13 14:19:32
+"RC Srfbrds","9-2 HPLB","New Surfboards",5/17/14 15:53:12,"S",$870.00,5/22/13 14:19:33
+"RC Srfbrds","9-2 JQ","New Surfboards",2/28/14 10:33:59,"S",$870.00,5/22/13 14:19:33
+"McKevlins Surfboards","9-4 LB","New Surfboards",5/18/14 14:36:22,"S",$555.00,6/15/13 9:36:54
+"Bing Surfboards","9-4 Bing Levitator","New Surfboards",7/25/14 11:18:20,"S",$1020.00,6/24/13 16:42:49
+"Lost Surfboards","5-8 RNF Quint","New Surfboards",2/24/14 17:25:09,"S",$625.00,6/25/13 16:12:41
+"Lost Surfboards","5-8 Couch Potato","New Surfboards",7/3/14 16:03:16,"S",$690.00,6/25/13 16:12:42
+"Lost Surfboards","5-10 Couch Potato","New Surfboards",5/24/14 13:24:08,"S",$655.00,6/25/13 16:12:42
+"Lost Surfboards","6-1 Couch Potato","New Surfboards",1/3/14 15:15:19,"S",$690.00,6/25/13 16:12:42
+"Lost Surfboards","5-6 Bottom Feeder","New Surfboards",5/18/14 13:04:30,"S",$655.00,6/25/13 16:12:43
+"Lost Surfboards","5-6 Bottom Feeder","New Surfboards",5/18/14 12:58:22,"S",$655.00,6/25/13 16:12:43
+"Lost Surfboards","5-6 Bottom Feeder","New Surfboards",5/18/14 13:08:21,"S",$655.00,6/25/13 16:12:43
+"RC Srfbrds","7-8 RC Mini","New Surfboards",1/10/14 13:52:51,"S",$670.00,6/27/13 10:11:06
+"Allison","9-6 Carolina Classic","New Surfboards",4/12/14 15:22:20,"S",$785.00,7/15/13 15:07:28
+"Allison","9-6 Carolina Classic","New Surfboards",1/10/14 17:08:28,"S",$785.00,7/15/13 15:07:28
+"Allison","9-4 Carolina Classic","New Surfboards",3/15/14 11:31:16,"S",$785.00,7/15/13 15:07:28
+"Allison","9-0 Carolina Classic","New Surfboards",3/12/14 17:38:44,"S",$785.00,7/15/13 15:07:28
+"Allison","6-10 Mini Cruiser","New Surfboards",2/17/14 15:42:52,"S",$650.00,7/15/13 15:07:29
+"Bing Surfboards","9-2 Elevator","New Surfboards",3/7/14 13:21:39,"S",$1020.00,7/29/13 14:25:57
+"Bing Surfboards","9-4 Elevator","New Surfboards",4/21/14 12:35:53,"S",$1020.00,7/29/13 14:25:58
+"Bing Surfboards","9-6 Elevator","New Surfboards",7/17/14 16:45:15,"R",($1020.00),7/29/13 14:25:58
+"Bing Surfboards","9-6 Elevator","New Surfboards",7/12/14 13:16:39,"S",$1020.00,7/29/13 14:25:58
+"Bing Surfboards","9-6 Elevator","New Surfboards",7/12/14 13:22:02,"S",$1020.00,7/29/13 14:25:58
+"Lost Surfboards","5-11 SubScorcher","New Surfboards",2/26/14 17:34:16,"S",$600.00,8/9/13 14:49:29
+"Lost Surfboards","5-11 SubScorcher","New Surfboards",1/9/14 17:04:18,"S",$630.00,8/9/13 14:49:29
+"Lost Surfboards","5-10 Beach Buggy","New Surfboards",1/28/14 13:12:16,"S",$630.00,8/9/13 14:49:30
+"Lost Surfboards","5-11 Couch Potato","New Surfboards",4/29/14 15:55:15,"S",$695.00,8/9/13 14:49:30
+"Lost Surfboards","5-11 Couch Potato","New Surfboards",4/29/14 15:55:15,"S",$695.00,8/9/13 14:49:30
+"Lost Surfboards","6-0 Couch Potato","New Surfboards",6/6/14 14:03:16,"S",$695.00,8/9/13 14:49:31
+"Lost Surfboards","6-4 LayZBoy","New Surfboards",3/27/14 11:24:35,"S",$695.00,8/9/13 14:49:31
+"Lost Surfboards","6-2 Couch Potato","New Surfboards",7/3/14 13:29:17,"S",$655.00,8/9/13 14:49:32
+"McKevlins Surfboards","9-2 Longboard","New Surfboards",5/4/14 10:32:25,"S",$570.00,8/27/13 10:14:24
+"McKevlins Surfboards","9-2 Longboard","New Surfboards",5/18/14 16:31:39,"S",$570.00,8/27/13 10:14:24
+"Lost Surfboards","6-2 Whiplash","New Surfboards",3/30/14 10:37:38,"S",$620.00,8/29/13 17:23:11
+"Bing Surfboards","5-5 Puck","New Surfboards",5/25/14 10:32:58,"S",$785.00,9/30/13 11:43:47

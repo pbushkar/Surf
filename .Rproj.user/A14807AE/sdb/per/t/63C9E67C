@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1416308730218.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "63C9E67C",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "SurfboardSalesNewAll",
+        "contentUrl" : "content?title=SurfboardSalesNewAll&file=1771c925ab884b78a2844420d1f5cab3.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 7,
+        "totalObservations" : 2141,
+        "variables" : 7
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
